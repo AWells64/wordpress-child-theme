@@ -1,1 +1,1 @@
-# worpress-child-theme
+# wordpress-child-theme
